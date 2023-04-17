@@ -1,0 +1,6 @@
+framework module Pods_rxcocoa_example_rxcocoa_exampleUITests {
+  umbrella header "Pods-rxcocoa example-rxcocoa exampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

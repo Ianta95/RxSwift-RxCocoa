@@ -1,0 +1,6 @@
+framework module Pods_rxcocoa_example {
+  umbrella header "Pods-rxcocoa example-umbrella.h"
+
+  export *
+  module * { export * }
+}
